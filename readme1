@@ -1,0 +1,4 @@
+following the disussion with Joerg, we use the paper by Bernd G. Pfrommer, Michel Côté, Steven G. Louie, and Marvin L. Cohen 
+with title "Relaxation of Crystals with the Quasi-Newton Method".
+aster seeeing the CASTEP code that already use this paper for relaxing the strucutre while preserving its symmetry, we found out that 
+we must average in all back and forth rotation symmetry operation on stress matrix. 
